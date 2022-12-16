@@ -1,16 +1,12 @@
-# gepgtanzania
+# GePG-Tanzania-Cloned
 
-A new Flutter project.
+This is a cloned version of GePG_Tanzania mobile app
 
-## Getting Started
+#Technologies: Flutter
 
-This project is a starting point for a Flutter application.
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 42](https://user-images.githubusercontent.com/77027012/208182860-39ef93ca-079c-44b8-bc78-296fb4640919.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 46](https://user-images.githubusercontent.com/77027012/208182874-e63f9da0-7e34-412a-a755-2a1d967f5079.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 53](https://user-images.githubusercontent.com/77027012/208182885-ca359382-4b58-4208-a44b-9c4577b9a26b.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 58](https://user-images.githubusercontent.com/77027012/208182892-ffa5c10b-fa34-4908-a0e8-5eb5bba90ccf.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
