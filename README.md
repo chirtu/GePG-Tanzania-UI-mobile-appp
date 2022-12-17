@@ -1,6 +1,6 @@
 # GePG-Tanzania-Cloned
 
-This is a cloned version of GePG_Tanzania mobile app
+This is a cloned version of GePG_Tanzania mobile app . Available in ios and android app
 
 #Technologies: Flutter
 
