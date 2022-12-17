@@ -1,8 +1,16 @@
-# GePG-Tanzania-Cloned
+#💖&ensp;GePG-Tanzania-Cloned
 
 This is a cloned version of GePG_Tanzania mobile app . Available in ios and android app
 
-#Technologies: Flutter
+###Technologies: Flutter
+
+
+### 💖&ensp;Download Source Code [(FAQ)](https://github.com/JohannesMilke/sponsorware "FAQ")
+
+You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first, before you will get access to [THIS Source Code](https://github.com/JohannesMilke-Sponsors/user_location "THIS Source Code") and of all my other Flutter Videos.
+
+
+
 
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 42](https://user-images.githubusercontent.com/77027012/208182860-39ef93ca-079c-44b8-bc78-296fb4640919.png)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 46](https://user-images.githubusercontent.com/77027012/208182874-e63f9da0-7e34-412a-a755-2a1d967f5079.png)
