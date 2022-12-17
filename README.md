@@ -2,7 +2,7 @@
 
 This is a cloned version of GePG_Tanzania mobile app . Available in ios and android app
 
-###Technologies: Flutter
+Technologies: Flutter
 
 
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2022-12-16 at 19 03 42](https://user-images.githubusercontent.com/77027012/208182860-39ef93ca-079c-44b8-bc78-296fb4640919.png)
